@@ -1,0 +1,29 @@
+body {
+    font-family: Calibri;
+    font-size: 50px;
+    text-align: justify;
+    display: grid;
+    grid-template-columns: 1fr minmax(200px, 1150px) 1fr;
+    background-color: #f8f4e8;
+    color: #0047a3;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    font-size: 40px;
+    background-color: #0047a3;
+    color: #f8f4e8;
+}
+.menu {
+    font-size: 30px;
+    background-color: #0047a3;
+    color: #f8f4e8;
+}
+.content {
+    margin: 100px 0px;
+}
+.footer   {
+    font-size: 30px;
+    background-color: #0047a3;
+    color: #f8f4e8;
+}
